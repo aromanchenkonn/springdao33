@@ -10,8 +10,8 @@ public class Start {
 
 	public static void main(String[] args) {
 		MP3 mp3 = new MP3();
-		mp3.setName("Song name");
-		mp3.setAuthor("Song author");
+		mp3.setName("My Song name");
+		mp3.setAuthor("My Song author");
 
 		// new SQLiteDAO().insertWithJDBC(mp3);
 
